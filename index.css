@@ -355,10 +355,12 @@ color: #2B2B2B;
 .final-flex{
     display: flex;
     flex-direction: row;
-    row-gap: 15rem;
-    margin-bottom: 150px;
    justify-content: space-between;
   
+}
+
+#top-r{
+    margin-bottom: 150px;
 }
 
 .final-child-l{
